@@ -2376,7 +2376,7 @@
  "scrollBarMargin": 2,
  "contentOpaque": false,
  "paddingRight": 0,
- "downloadEnabled": true,
+ "downloadEnabled":false,
  "paddingLeft": 0,
  "verticalAlign": "top",
  "height": "100%",
